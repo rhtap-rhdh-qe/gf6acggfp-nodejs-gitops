@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gf6acggfp-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gf6acggfp-nodejs-gitops
